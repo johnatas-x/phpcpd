@@ -1,17 +1,21 @@
 {
-    "name": "sebastian/phpcpd",
+    "name": "johnatas-x/phpcpd",
     "description": "Copy/Paste Detector (CPD) for PHP code.",
-    "homepage": "https://github.com/sebastianbergmann/phpcpd",
+    "homepage": "https://github.com/johnatas-x/phpcpd",
     "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Sebastian Bergmann",
             "email": "sebastian@phpunit.de",
             "role": "lead"
+        },
+        {
+            "name": "Johnatas",
+            "role": "Fork maintainer"
         }
     ],
     "support": {
-        "issues": "https://github.com/sebastianbergmann/phpcpd/issues"
+        "issues": "https://github.com/johnatas-x/phpcpd/issues"
     },
     "config": {
         "platform": {
